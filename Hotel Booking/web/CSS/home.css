@@ -1,0 +1,16 @@
+footer {
+    background-color: #A6C4AA !important;
+    padding: 10x 10px;
+    overflow: hidden;
+}
+
+footer .footer-copyright {
+    overflow: hidden;
+
+    background-color: #799D86;
+    color: black;
+}
+
+footer a,h5,p {
+    color: black;
+}
